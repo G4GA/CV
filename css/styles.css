@@ -7,6 +7,8 @@ a {
     text-decoration: none;
 }
 
+
+
 #profilePicture {
     border-radius: 100%;
     border-style: dashed;
@@ -29,6 +31,10 @@ h2 {
 
 h3 {
     color: #628E90;
+}
+
+.link:hover {
+    color: #3C2317;
 }
 
 h1 {
