@@ -7,6 +7,12 @@ a {
     text-decoration: none;
 }
 
+#profilePicture {
+    border-radius: 100%;
+    border-style: dashed;
+    border-color: #874C62;
+}
+
 hr {
     border-color: #874C62;
     border-style: none;
