@@ -28,3 +28,14 @@ h3 {
 h1 {
     color: #628E90;
 }
+
+.notInTable {
+    margin: auto;
+    text-align: justify;
+    text-justify: auto;
+    width: 80%;
+}
+
+.CenterH3 {
+    text-align: center;
+}
